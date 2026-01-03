@@ -16,6 +16,7 @@ I am a **Software Engineer with 3+ years of experience** designing and building 
 
 I specialize in:
 - **Java & Spring Boot**
+- **.NET Core and Azure DevOps**
 - **Microservices & REST APIs**
 - **CI/CD, testing, and performance optimization**
 - Secure and maintainable system design
@@ -33,13 +34,24 @@ I enjoy writing clean code, improving system performance, and solving **Data Str
 
 ---
 
-### ⚙️ Backend (Spring Ecosystem)
+### ⚙️ Backend (Spring Ecosystem and Microsoft .NET Ecosystem)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge)
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge)
+![ASP.NET Web API](https://img.shields.io/badge/ASP.NET%20Web%20API-512BD4?style=for-the-badge)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge)
+
 
 ---
 
@@ -77,15 +89,24 @@ I enjoy writing clean code, improving system performance, and solving **Data Str
 
 ## 💼 Work Experience
 
+### 🏢 Georgia State University — *Graduate Research Assistant*  
+📍 Atlanta, United States | **Aug 2024 – Present**
+
+- Redesigned and modularized an event-driven backend workflow using streaming and messaging concepts to process structured data and trigger personalized email generation at scale, reducing manual effort by **80%**
+- Refactored legacy logic into clean, reusable components by applying solid design principles and patterns, significantly improving code readability, testability, and long-term extensibility
+
+---
+
 ### 🏢 EPAM Systems — *Software Engineer*  
 📍 Hyderabad, India | **Feb 2022 – Jul 2024**
 
-- Migrated legacy Java services to **Spring Boot**, improving scalability and maintainability  
-- Integrated **Google Classroom REST APIs** for large-scale educator workflows  
-- Designed **CI/CD pipelines using Jenkins**, reducing release cycles by **70%**  
-- Increased test coverage by **26%** using **JUnit & Mockito**  
-- Implemented **XSS protection** and secure validation using Spring Security  
-- Built custom validation annotations for complex business rules  
+- Migrated legacy backend services to a modern, modular framework, improving scalability, performance, and long-term maintainability  
+- Integrated third-party REST APIs to enable large-scale workflow automation and secure data synchronization  
+- Designed and implemented CI/CD pipelines to automate build, test, and deployment processes, reducing release cycles by 70%  
+- Developed comprehensive unit and integration test suites, increasing code coverage by 26% and improving system reliability  
+- Strengthened application security by mitigating common web vulnerabilities (e.g., XSS) through input validation, output encoding, and secure authorization mechanisms  
+- Built custom validation components to enforce complex business rules, improving data integrity and simplifying service-layer logic
+
 
 ---
 
@@ -101,14 +122,12 @@ I enjoy writing clean code, improving system performance, and solving **Data Str
 ## 📌 Featured Project
 
 ### 🧠 Knowledge Sharing Web Application
-**Tech:** Angular | Spring Boot | REST APIs | JWT | MS SQL Server  
+**Tech:** Angular | .NET Core | REST APIs | JWT | MS SQL Server  
 
 - Built a full-stack knowledge sharing & blogging platform  
 - Implemented **JWT-based authentication & role-based authorization**  
 - Designed efficient pagination using **stored procedures**  
-- Used **recursive CTEs** for hierarchical comments  
-
-👉 *(Add repository link here)*
+- Used **recursive CTEs** for hierarchical comments
 
 ---
 
@@ -129,11 +148,6 @@ Vidya Jyothi Institute of Technology | **CGPA: 3.8 / 4.0**
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jitinkrishnamadineni&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jitinkrishnamadineni&layout=compact)
-
----
 
 ⭐ *Building scalable systems. Learning every day.*
