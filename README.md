@@ -1,7 +1,7 @@
 # Hi 👋 I'm Jitin Krishna Madineni
 
 🎓 MS in Computer Science @ Georgia State University  
-💻 Software Engineer | Backend & Full-Stack Developer  
+💻 Software Engineer | Full-Stack Developer | Spring Boot Developer | .NET Developer
 📍 Atlanta, USA  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/JitinKrishnaMadineni)
@@ -63,11 +63,11 @@ I enjoy writing clean code, improving system performance, and solving **Data Str
 
 ---
 
-### 🗄️ Databases
+### 🗄️ Databases and Redis
 ![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ---
 
 ### 🧪 Testing & Messaging
@@ -92,8 +92,10 @@ I enjoy writing clean code, improving system performance, and solving **Data Str
 ### 🏢 Georgia State University — *Graduate Research Assistant*  
 📍 Atlanta, United States | **Aug 2024 – Present**
 
-- Redesigned and modularized an event-driven backend workflow using streaming and messaging concepts to process structured data and trigger personalized email generation at scale, reducing manual effort by **80%**
-- Refactored legacy logic into clean, reusable components by applying solid design principles and patterns, significantly improving code readability, testability, and long-term extensibility
+• Built an automated Excel-driven email orchestration system to parse structured data and generate personalized
+automated emails, enabling scalable workflow automation and reducing manual effort.
+• Redesigned and refactored a modular backend using Clean Architecture, applying SOLID Principles,
+Design Patterns, and clean coding practices to improve scalability and maintainability.
 
 ---
 
