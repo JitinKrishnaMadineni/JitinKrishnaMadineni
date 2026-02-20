@@ -1,7 +1,8 @@
 # Hi 👋 I'm Jitin Krishna Madineni
 
-🎓 MS in Computer Science @ Georgia State University  
+🎓 MS in Computer Science, Georgia State University  
 💻 Software Engineer | Full-Stack Developer | Spring Boot Developer | .NET Developer
+
 📍 Atlanta, USA  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/JitinKrishnaMadineni)
